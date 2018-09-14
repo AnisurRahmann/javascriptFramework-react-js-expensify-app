@@ -2,7 +2,7 @@
   "name": "expensify",
   "version": "1.0.0",
   "description": "My React boilerplate",
-  "engienes":{
+  "engines":{
     "node":"10.2.1",
     "npm":"6.1.0"
   },
