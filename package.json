@@ -2,6 +2,10 @@
   "name": "expensify",
   "version": "1.0.0",
   "description": "My React boilerplate",
+  "engienes":{
+    "node":"10.2.1",
+    "npm":"6.1.0"
+  },
   "main": "index.js",
   "scripts": {
     "test": "jest --config=jest.config.json",
